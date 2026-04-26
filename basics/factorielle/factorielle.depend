@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1770729507 source:/home/doriane/Documents/exo_programmation_system/factorielle/main.c
+	<stdio.h>
+	<stdlib.h>
+
