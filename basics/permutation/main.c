@@ -5,6 +5,6 @@ int main()
     temp=a;
     a=b;
     b=temp;
-    printf("the value of a=%d\nthe value of b=%d",a,b);
+    printf("the value of a=%d\nthe value of b=%d\n",a,b);
     return 0;
 }
