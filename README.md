@@ -1,4 +1,5 @@
 # c-algorithms
+### I work on Ubuntu <br> <br>
 # purpose /objectif
 This project was created to publish my C-implemented algorithms, so other developers can use them in their studies or projects.
 
@@ -6,6 +7,6 @@ Ce projet a été créé dans le but de publier mes algorithmes implémentés en
 
 # compilation & execution without makefile
   compilation: gcc main.c -o name_that_you_want
-  <br>execution:<br>  linux:./name_that_you_want
+  <br>execution:./name_that_you_want
 # compilation & execution with makefile
 coming soon(bientôt disponible)
