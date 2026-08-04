@@ -1,2 +1,12 @@
 # c-algorithms
-Ce projet a été créé dans le but de publier mes algorithmes traduits en langage C pour que certains devs puissent les utiliser dans leurs apprentissages ou leurs projets.
+# purpose /objectif
+This project was created to publish my C-implemented algorithms, so other developers can use them in their studies or projects.
+
+Ce projet a été créé dans le but de publier mes algorithmes implémentés en C, afin que d'autres développeurs puissent les utiliser dans le cadre de leurs études ou de leurs projets.
+
+# compilation & execution without makefile
+  compilation: gcc main.c -o name_that_you_want
+  execution: 
+    linux: ./name_that_you_want
+# compilation & execution with makefile
+coming soon(bientôt disponible)
