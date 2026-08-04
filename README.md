@@ -6,6 +6,6 @@ Ce projet a été créé dans le but de publier mes algorithmes implémentés en
 
 # compilation & execution without makefile
   compilation: gcc main.c -o name_that_you_want
-  <br>execution:./name_that_you_want
+  <br>execution:   ./name_that_you_want
 # compilation & execution with makefile
 coming soon(bientôt disponible)
