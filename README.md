@@ -1,6 +1,6 @@
 # c-algorithms
-### This project was developed and tested on Ubuntu.
-### Ce projet a été développé et testé sous Ubuntu
+### !!! This project was developed and tested on Ubuntu.
+### !!! Ce projet a été développé et testé sous Ubuntu
 # purpose /objectif
 This project was created to publish my C-implemented algorithms so that other developers can use them in their studies or projects.  <br>  <br>
 Ce projet a été créé dans le but de publier mes algorithmes implémentés en C afin que d'autres développeurs puissent les utiliser dans le cadre de leurs études ou de leurs projets.
